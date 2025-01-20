@@ -1,2 +1,2 @@
 nombre=input()
-print(f"Hola {nombre}")
+print(f"Hola, {nombre}")
